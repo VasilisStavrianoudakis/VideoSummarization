@@ -4,3 +4,6 @@ torch
 torchvision
 torchaudio
 pytorchvideo==0.1.5
+pytube==15.0.0
+yt-dlp==2023.6.22
+
