@@ -7,3 +7,10 @@ pytorchvideo==0.1.5
 yt-dlp==2023.6.22
 opencv-python==4.7.0.72
 scikit-learn==1.2.2
+pyAudioAnalysis==0.3.14
+pydub==0.25.1
+librosa
+matplotlib==3.7.1
+eyed3
+imblearn
+plotly==5.15.0
