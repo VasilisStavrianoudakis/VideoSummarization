@@ -1,1 +1,1 @@
-# **VideoSummariztion**
+# **VideoSummarization**
