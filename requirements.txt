@@ -14,3 +14,6 @@ matplotlib==3.7.1
 eyed3
 imblearn
 plotly==5.15.0
+openai-whisper
+transformers
+sentencepiece
