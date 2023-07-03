@@ -2,7 +2,7 @@
 
 ## **About this Project**
 
-This is the final assginment of the Multimodal course of the MSc in AI.
+This is the final assignment of the Multimodal course of the MSc in AI.
 
 ## **How to run the code**
 
